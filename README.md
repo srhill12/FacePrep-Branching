@@ -44,7 +44,7 @@ pip install numpy pandas matplotlib pillow opencv-python-headless albumentations
 
    ```bash
    git clone https://github.com/yourusername/faceprep-branching.git
-cd faceprep-branching
+   cd faceprep-branching
    ```
 
 2. **Set Up the Environment:**
