@@ -43,8 +43,8 @@ pip install numpy pandas matplotlib pillow opencv-python-headless albumentations
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/srhill12/prep-faces.git
-   cd prep-faces
+   git clone https://github.com/yourusername/faceprep-branching.git
+cd faceprep-branching
    ```
 
 2. **Set Up the Environment:**
